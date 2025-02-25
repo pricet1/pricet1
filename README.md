@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I am a [Research Software Engineer](https://www.software.ac.uk/about/research-software-engineers) in [ResearchIT](https://www.itservices.manchester.ac.uk/research/) at the [University of Manchester](https://www.manchester.ac.uk/).
 
-I love building software that empowers researchers to solve scientific problems in a robust way.
+I aim to build software that empowers researchers to solve scientific problems in a robust way.
